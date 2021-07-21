@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, this is Brian Cartan, and this is my GitHub profile.
 
 <!--
 **cartanb/cartanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
